@@ -26542,17 +26542,15 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-2 {margin-bottom: 28px}
 .u-header .u-logo-image-2 {max-width: 140px; max-height: 140px}
 .u-header .u-text-1 {margin-right: 97px; margin-left: 97px} }
- .u-footer {background-image: url("images/2020-04-07_201209.jpg"); background-position: 50% 50%}
-.u-footer .u-sheet-1 {min-height: 142px}
-.u-footer .u-image-1 {margin: 56px auto 0 0}
+ .u-footer {background-image: none}
+.u-footer .u-sheet-1 {min-height: 94px}
+.u-footer .u-image-1 {margin: 32px auto 0 0}
 .u-footer .u-logo-image-1 {max-width: 150px; max-height: 150px; width: 150px}
-.u-footer .u-image-2 {width: 61px; height: 65px; margin: -48px 0 38px auto} 
-@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 90px}
-.u-footer .u-image-1 {width: 80px; height: 16px}
-.u-footer .u-image-2 {margin-top: -63px} }
+.u-footer .u-image-2 {width: 61px; height: 64px; margin: -47px 0 15px auto} 
+@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 94px} }
 
 
-@media (max-width: 575px){ .u-footer .u-image-1 {width: 150px} }
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
